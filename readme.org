@@ -1,20 +1,20 @@
 * emacs-init
 
-[[https:github.com/vhqr0/emacs-init][emacs-init]]
+[[https://github.com/vhqr0/emacs-init][emacs-init]]
 
 Emacs init files.
 
 * helm-roam
 
-[[https:github.com/vhqr0/helm-roam][helm-roam]]
+[[https://github.com/vhqr0/helm-roam][helm-roam]]
 
 Helm command for Org Roam.
 
 * hy-mode
 
-[[https:github.com/vhqr0/hy-mode][hy-mode]]
+[[https://github.com/vhqr0/hy-mode][hy-mode]]
 
 Major mode for Hylang.
 
-Rewritten [[https:github.com/hylang/hy-mode][hy-mode]], it seems to
+Rewritten [[https://github.com/hylang/hy-mode][hy-mode]], it seems to
 have no maintainer for a long time.
