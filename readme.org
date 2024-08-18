@@ -4,6 +4,12 @@
 
 Emacs init files.
 
+* eshell-dwim
+
+[[https://github.com/vhqr0/eshell-dwim][eshell-dwim]]
+
+Do open eshell startly.
+
 * helm-roam
 
 [[https://github.com/vhqr0/helm-roam][helm-roam]]
